@@ -1,2 +1,3 @@
 # ML-StnfordCourse
-Machine Learning course from Coursera by Andrew NG (Stanford University)
+Machine Learning course from Coursera by Andrew Ng (Stanford University)
+https://ru.coursera.org/learn/machine-learning
